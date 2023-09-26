@@ -1,0 +1,10 @@
+com/gluonhq/samples/cloudfirst/views/AppViewManager.class
+com/gluonhq/samples/cloudfirst/views/EditionPresenter.class
+com/gluonhq/samples/cloudfirst/model/Note.class
+com/gluonhq/samples/cloudfirst/service/Service.class
+com/gluonhq/samples/cloudfirst/views/HeaderCell.class
+com/gluonhq/samples/cloudfirst/CloudFirstStorage.class
+com/gluonhq/samples/cloudfirst/views/NotesPresenter.class
+com/gluonhq/samples/cloudfirst/views/NoteCell.class
+com/gluonhq/samples/cloudfirst/model/Model.class
+module-info.class

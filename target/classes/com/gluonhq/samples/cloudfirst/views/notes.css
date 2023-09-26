@@ -1,0 +1,19 @@
+.view {
+
+}
+
+.charm-list-view .header-cell {
+    -fx-background-color: -primary-swatch-200;
+}
+
+.charm-list-view .header-cell:empty {
+    -fx-background-color: transparent;
+}
+
+.charm-list-view .header-cell .label {
+    -fx-text-fill: -primary-swatch-900;
+}
+
+.list-tile > .primary-graphic {
+    -fx-text-fill: -primary-swatch-900;
+}
